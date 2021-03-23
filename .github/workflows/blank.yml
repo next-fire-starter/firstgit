@@ -1,5 +1,5 @@
 # workflow Name
-name: Hello, Workd!
+name: workflow Hello, Workd!
 
 # run div. 
 on:
@@ -16,5 +16,5 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - run: echo "Hellow, Workd!"
+      - run: echo "Echo Hellow, Workd!"
 
