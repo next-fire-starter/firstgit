@@ -1,0 +1,9 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+vscode:
+  extensions:
+    - yzhang.markdown-all-in-one@3.4.0:GR9Y7wA3m2/LsuZxLaCFtg==
+    - dendron.dendron-markdown-preview-enhanced@0.10.30:0UdA0avLues7Z6lDdprKAQ==
+    - bierner.markdown-mermaid@1.9.2:uYqPI23z4lZajcmfSFvf+A==
+    - shd101wyy.markdown-preview-enhanced@0.5.17:XRHJZccmKkaZKZGaeBJ0/w==
